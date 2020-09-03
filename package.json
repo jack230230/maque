@@ -113,7 +113,7 @@
     "json-loader": "^0.5.4",
     "loader-utils": "^0.2.16",
     "nock": "^9.0.2",
-    "node-sass": "^3.10.0",
+    "node-sass": "^4.14.1",
     "postcss-loader": "^0.13.0",
     "qiniu": "^6.1.13",
     "react-addons-test-utils": "^15.4.1",
